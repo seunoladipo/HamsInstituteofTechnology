@@ -32,5 +32,7 @@ The analysis concluded that the highest paid in the organization are freelancers
 
 
 
+# Sales Data 
+The sales data was analyzed using Microsoft Excel and the result is illustrated in the image below.
 
 ![](Task2and3.jpg)
